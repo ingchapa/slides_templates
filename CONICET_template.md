@@ -6,14 +6,14 @@ class:
   - invert: true
 size: 4:3
 paginate: true
-header: Proper Orthogonal Decompisition (POD) - CFD rakes
+header: Irwin's sensors - CIFICEN
 footer: "![h:40px](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-BKz8_T03mKjOcZOhdgUkuergJc8Jv_ydDj9-iIT2BTIiazTIlBF9yzeG0lkS1AFHmw&usqp=CAU)"
 math: katex
 ---
 <style>
 header{
   width: 960px;
-  padding: 5px 20px;
+  padding: 2px 20px;
   top: 0px;
   left: 0px;
   background: #14437a;
@@ -36,9 +36,8 @@ footer{
 }
 h1{
 font-size: 30px;
-top: 0px;
-left: 0px;
-padding: 10px 30px 5px;
+text-align: center;
+padding: 20px 0px 10px 0px;
 color: black;
 }
 section {
@@ -46,7 +45,7 @@ section {
   color: black;
   font-size: 20px;
   font-weight: 450;
-  padding: 40px;
+  padding: 30px;
   text-align: justified;
   width: 960px;
   height: 720px;
