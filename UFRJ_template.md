@@ -7,10 +7,10 @@ class:
 size: 4:3
 paginate: true
 header: Slide Template - Subject Title
-footer: "![h:30px](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-BKz8_T03mKjOcZOhdgUkuergJc8Jv_ydDj9-iIT2BTIiazTIlBF9yzeG0lkS1AFHmw&usqp=CAU)
-![h:30px](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsv8oqwMro91BC5UbUQc2v8tCSr8nnvGhbDdwC7-ceSIYLwmirRtkbLraJBpUnA2s9BRU&usqp=CAU)
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-Laboratory of Microparticles - CIFICEN (CONICET - CICPBA - UNICEN)"
+footer: "![h:30px](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU4GusKtqdkzZLkgJqtUlPciE5OLU8hRrXeQ&usqp=CAU)
+![h:30px](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVsmOlf_yVYucf6VwUe6XA46TZvyXtKQ1BVSwuajOlQRjqJXsvmg8ULRLiBzE_r44Kydk&usqp=CAU)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+Laboratory of Mineral Technology - UFRJ/COPPE"
 math: katex
 ---
 <style>
@@ -19,7 +19,7 @@ header{
   padding: 2px 20px;
   top: 0px;
   left: 0px;
-  background: #14437a;
+  background: #ac0505;
   color: white;
   font-size: 16px;
   font-style: italic;
@@ -31,7 +31,7 @@ footer{
   padding: 0px 0px 0px 0px;
   bottom: 0px;
   left: 0px;
-  background: #14437a;
+  background: #ac0505;
   color: white;
   font-size: 15px;
   font-style: italic;
