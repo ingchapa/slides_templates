@@ -41,19 +41,24 @@ footer{
 h1{
 font-size: 30px;
 text-align: center;
-padding: 20px 0px 10px 0px;
+padding: 0px 0px 0px 0px;
 color: black;
+}
+ul{
+  padding: 5px 0px 0px 30px;
+  font-size: 20px;
+  color: black;
 }
 section {
   background: white;
-  color: black;
+  padding: 40px 0px 0px 20px;
   font-size: 20px;
-  font-weight: 450;
-  padding: 30px;
+  font-style: normal;
+  font-weight: lighte;
   text-align: justified;
-  width: 960px;
-  height: 720px;
   justify-content: flex-start;
+  height: 720px;
+  width: 960px;
   }
 section::after {
   font-size: 16px;
@@ -63,9 +68,15 @@ section::after {
   bottom: 6px;
   right: 15px;
 }
+img[alt~="center"] {
+  display: block;
+  margin: 0 auto;
+}
 </style>
 
 # Slide 1
+
+Text
 
 - Item 1
 - Item 2
